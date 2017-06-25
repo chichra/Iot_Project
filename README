@@ -1,0 +1,12 @@
+GPS BASED HOME AUTOMATION SYSTEM
+
+The android app provides an interface that helps you control your appliances from far away land over the internet.
+The app uses GPS to get user’s current coordinates in order to calculate the distance between user and his home.
+Coordinates of user’s residence are already coded into the application at the time of installation.
+
+The State of Home Appliances is notified to the user.
+
+If the user that he has left appliance switched on while being away from home 
+he/she can switch it off using the app.
+
+Refer ProjectProposal.pdf for more details
